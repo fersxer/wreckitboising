@@ -1,0 +1,31 @@
+{
+  "name": "wreckitbois",
+  "version": "0.0.2",
+  "description": "let's randomize title of song!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fersxer/wreckitbois.git"
+  },
+  "keywords": [
+    "title",
+    "song",
+    "random",
+    "randomize",
+    "index"
+  ],
+  "author": "fersxer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fersxer/wreckitbois/issues"
+  },
+  "homepage": "https://github.com/fersxer/wreckitbois#readme",
+  "dependencies": {
+    "apalah1": "^0.0.2",
+    "kalkulatorz": "^0.0.4",
+    "rockscissorkuy": "^1.0.1"
+  }
+}
