@@ -1,6 +1,6 @@
 {
   "name": "wreckitbois",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "let's randomize title of song!",
   "main": "index.js",
   "scripts": {
